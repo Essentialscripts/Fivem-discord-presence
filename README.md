@@ -6,3 +6,6 @@
 2. Remove the license and read me from the folder
 3. Put in resources folder
 4. ensure in server cfg
+
+
+Join Our Discord for support https://discord.gg/X2XSZaat5q
